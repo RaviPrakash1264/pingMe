@@ -24,7 +24,7 @@ HTML • CSS • JavaScript • TypeScript • Bootstrap • Angular • Spring 
 </p>
 <h2 align="center">LIST OF BACKEND FEATURES/MODULES</h2>
 <p align="center">
-<img src="https://i.ibb.co/ZV5gNqT/Screenshot-2023-03-28-202208.jpg" alt="Untitled" border="0">
+<img src="https://i.ibb.co/Vphjwc1/Screenshot-2023-04-01-014641.jpg" alt="Untitled" border="0">
 </p>
 <h2 align="center">SCREENSHOTS</h2>
 <h3>1. LANDING PAGE</h3>
