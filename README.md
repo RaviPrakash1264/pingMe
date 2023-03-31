@@ -1,6 +1,6 @@
 <h1 align="center" style="">PingMe</h1>
 <h3 align="center" style="">Contributors: <a href="https://github.com/RaviPrakash1264">@RaviPrakash1264</a></h3>
-<h4 align="center">A one stop solution for employee management.Unlike any other websites/apps it provides add,delete,update,filter/search of any set of employees along with the alert prompt and have multi-device adaptability.
+<h4 align="center">A All in One solution for managing your servers whether it be a broadband or router or your personal computer.It will consists of multiple functionalities which includes add,delete,filter severs on basis of their status and pinging the servers.In addition to this it will help users to generate the report of the servers in excel format and it also have multi-device adaptability.
 </h4>
 <p align="center">
 <img src="https://i.ibb.co/kMqTKSK/Employee-management-system-icon-removebg-preview.png" alt="Loco-Cart-046ea27c" height="200" width="200">
