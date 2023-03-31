@@ -8,9 +8,7 @@
 <h4>
 On homepage user is presented with the list of servers which includes details as image,IP address,name,memory,type and server status.He/She will be able to add and delete  as many number of servers they want.In server addition form user have to give IP address,name,memory,type and status of the server.The addition form is embedded with custom form validation and add button will not become active untill and unless user have entered values in all the input fields.Filter option  have the feature to filter out the server on basis of their availability and by default it will show all the servers.Users can be able to print the report of the servers just on click of a button.Database of this website have used the concept AUTO_INCREMENT which will be helpful in idenitfying any server irrespective of the similar information.With the help of pingMe app user can be able to ping any server and know it's status without the use of cmd and here this app creates the difference. 
 </h4>
-<h4>
-This would prove to be very beneficial for the users as they have everthing that they need for a employee management at once place.
-</h4>
+
 
 <h2 align="center">TECH STACK USED</h2>
 <h4 align="center">
@@ -18,7 +16,7 @@ HTML • CSS • JavaScript • TypeScript • Bootstrap • Angular • Spring 
 </h4>
 <h2 align="center">CLIENT-SERVER ARCHITECTURE USED IN THE PROJECT</h2>
 <p align="center">
-<img src="https://i.ibb.co/6NwQgWh/architecture.jpg" alt="Untitled" border="0">
+<img src="https://i.ibb.co/ZLsGST0/Screenshot-2023-04-01-010831.jpg" alt="Untitled" border="0">
 </p>
 <h2 align="center">LIST OF FRONTEND FEATURES/MODULES</h2>
 <p align="center">
