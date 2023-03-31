@@ -1,9 +1,9 @@
 <h1 align="center" style="">PingMe</h1>
 <h3 align="center" style="">Contributors: <a href="https://github.com/RaviPrakash1264">@RaviPrakash1264</a></h3>
-<h4 align="center">A All in One solution for managing your servers whether it be a broadband or router or your personal computer.It will consists of multiple functionalities which includes add,delete,filter severs on basis of their status and pinging the servers.In addition to this it will help users to generate the report of the servers in excel format and it also have multi-device adaptability.
+<h4 align="center">A All in One solution for managing your servers whether it be a broadband or router or your personal computer.It will consists of multiple functionalities which includes add,delete,custom form validation,filter severs on basis of their status and pinging the servers.In addition to this it will help users to generate the report of the servers in excel format and it also have multi-device adaptability.
 </h4>
 <p align="center">
-<img src="https://i.ibb.co/kMqTKSK/Employee-management-system-icon-removebg-preview.png" alt="Loco-Cart-046ea27c" height="200" width="200">
+<img src="https://i.ibb.co/FJKG2mH/954872.png" alt="Loco-Cart-046ea27c" height="200" width="200">
 </p>
 <h4>
 Once a user lands on the homepage he/she will be able to see the list of all the employees.He/She will be able to filter out any employee irrespective of the information whether it be name,email,Job title or phone number.In addition to this user can be able to delete and edit the employee details as well.It also provides the functionality to add any number of users but user make sure that he has entered data in all the input fields otheriwse information get filtered out because of embedded custom form validation.Database of this website have used the concept of UUIDs(Universally Unique Identifiers) which will be helpful in idenitfying any employee irrespective of the similar information.
