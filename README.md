@@ -29,33 +29,37 @@ HTML • CSS • JavaScript • TypeScript • Bootstrap • Angular • Spring 
 <h2 align="center">SCREENSHOTS</h2>
 <h3>1. LANDING PAGE</h3>
 <p align="center">
-<img src="https://i.ibb.co/dfGTXhW/Screenshot-2023-03-28-233944.jpg" alt="Picture2" border="0">
+<img src="https://i.ibb.co/svd1Mk6/list-of-servers.jpg" alt="Picture2" border="0">
 </p>
-<h3>2. ADD EMPLOYEES</h3>
+<h3>2. ADD SERVERS WITH FORM VALIDATION(ADD BUTTON NOT ACTIVE UNTILL ALL DETAILS GOT FILLED)</h3>
 <p align="center">
-<img src="https://i.ibb.co/LQW6PNy/add.jpg" alt="Picture2" border="0">
-</p>
-
-<h3>3. EDIT EMPLOYEES DETAILS</h3>
-<p align="center">
-<img src="https://i.ibb.co/PxMhZww/edit.jpg" alt="Picture8" border="0">
-</p>
-<h3>4. DELETE EMPLOYEES DETAILS</h3>
-<p align="center">
-<img src="https://i.ibb.co/pZfP849/delete.jpg" alt="Picture5" border="0">
-</p>
-<h3>5. FORM VALIDATION(SAVE CHANGES BUTTON NOT ACTIVE UNTILL ALL DETAILS GOT FILLED)</h3>
-<p align="center">
-<img src="https://i.ibb.co/Sfj0tfM/form-validation.jpg" border="0">
-</p>
-<h3>6. SEARCH EMPLOYEES ONE WITH NAME AND OTHER WITH JOB TITLE</h3>
-<p align="center">
-<img src="https://i.ibb.co/C6Nb1Yk/search1.jpg" alt="Picture6" border="0">
+<img src="https://i.ibb.co/4fygH7p/form-validation.jpg" alt="Picture2" border="0">
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/1vxVdCD/search2.jpg" alt="Picture6" border="0">
+<img src="https://i.ibb.co/KWf3H56/adding-server.jpg" alt="Picture6" border="0">
 </p>
+<h3>3. PING SERVERS</h3>
+<p align="center">
+<img src="https://i.ibb.co/s576rx9/ping-server.jpg" alt="Picture8" border="0">
+</p>
+<h3>4. FILTER SERVERS WITH SERVER UP AND DOWN STATUS</h3>
+<p align="center">
+<img src="https://i.ibb.co/kmHmDgg/filter-server-up.jpg" alt="Picture5" border="0">
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/7rsSVCR/server-down.jpg" alt="Picture5" border="0">
+</p>
+<h3>5. PRINTING REPORT</h3>
+<p align="center">
+<img src="https://i.ibb.co/RN95T0p/printing-report.jpg" border="0">
+</p>
+<h3>6. DELETE SERVERS</h3>
+<p align="center">
+<img src="https://i.ibb.co/thb7qrx/deleting-servers.jpg" alt="Picture6" border="0">
+</p>
+
 <h2 align="center">REFERENCES</h2>
 
 <ul>
