@@ -66,18 +66,18 @@ HTML • CSS • JavaScript • TypeScript • Bootstrap • Angular • Spring 
 <li>
 ANGULAR CLI DOCUMENTATION
 https://angular.io/cli
-
+</li>
 <li>
 SPRING BOOT DOCUMENTATION
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
 </li>
+ <li>
+ANGULAR NOTIFIER
+https://www.npmjs.com/package/angular-notifier
+</li>
 <li>
 STACKOVERFLOW FOR FIXING BUGS
 https://stackoverflow.com/
-</li>
-<li>
-BOOTSTRAP CARDS
-https://www.bootdey.com/snippets/view/bs4-card-widget
 </li>
 <li>
 CROSS-ORIGIN RESOURCE SHARING(CORS)
